@@ -1,0 +1,7 @@
+## Interface: 30300
+## Title: Simple Quest Abandoner
+## Notes: Right-click a quest in your log to instantly abandon it without confirmation
+## Version: 1.0
+## Author: zimbabd
+
+SimpleQuestAbandoner.lua
