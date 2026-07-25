@@ -1,4 +1,4 @@
-# Simple Quest Abandon
+# Simple Quest Abandoner
 
 A lightweight WoW 3.3.5a addon that allows you to instantly abandon quests by holding **Ctrl and right-clicking** a quest in your quest log.
 
